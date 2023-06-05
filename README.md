@@ -57,8 +57,10 @@ insertion_sort(list_of_nums)
 ```
 
 ## Output:
-![Screenshot (23)](https://github.com/sandy29l/Sorting-Algorithm/assets/123359969/6c9157e0-f9dd-445d-94f4-f2cf73f30977)
 
+## i) Selection Sort:
+![Screenshot (23)](https://github.com/sandy29l/Sorting-Algorithm/assets/123359969/6c9157e0-f9dd-445d-94f4-f2cf73f30977)
+## ii)	Insertion Sort:
 ![Screenshot (24)](https://github.com/sandy29l/Sorting-Algorithm/assets/123359969/5d5bba6e-9fab-48cb-ab40-0427976ea3d5)
 
 ## Result:
